@@ -19,7 +19,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        String token = "NzIwMTk2MjAxMTQ3OTI0NDkw.XuCc-g.gN7LCS234vqAv3k44U2DXTsevJE";
+        String token = "token";
         DiscordApi api = new DiscordApiBuilder()
                 .setToken(token)
                 .setAllIntents()
